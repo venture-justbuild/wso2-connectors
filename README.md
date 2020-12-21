@@ -1,4 +1,7 @@
 # WSO2 Connector Files
+## Database Connector
+* postgresql-42.2.18.jar 
+Database connectors for WSO2 components.
 
 ## Connectors for using Identity Server as Key Manager
 * keymanager-operations.war
